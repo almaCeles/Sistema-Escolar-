@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-GestorEscolarMiscelaneo",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-ventanaPrincipal",
+      "appliesTo": "ventanaPrincipal.py",
+      "type": "launch"
+    }
+  ]
+}
